@@ -5,7 +5,7 @@ Developer 1: Kieran H
 
 Developer 2: Kai
 
-Developer 3:
+Developer 3: Kieran W
 
 Developer 4: Luke
 
